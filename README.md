@@ -17,5 +17,3 @@
 ## Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman1210)](https://github.com/aman1210/github-readme-stats)
-
-[![](https://raw.githubusercontent.com/aman1210/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/aman1210/github-profile-summary-cards)
