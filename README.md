@@ -3,17 +3,17 @@
 
 ### <p align="center"> I'm a Student, Developer, Learner!!! </p>
 
-<!--
-**aman1210/aman1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning <b> Flutter </b>
+- 👯 I’m looking to collaborate on <b> Flutter based Projects </b>
+- 💬 Ask me about <b>Flutter, HTML5, Javascript, CSS3, Angular, Node.JS, MongoDB</b>
+- 📫 How to reach me: <b>Connect to me via Email [Aman Srivastava](mailto:aman.srivastava101@gmail.com.com?subject=[GitHub]%20Source%20Han%20Sans)</b>
+- ⚡ Fun fact: <b> I love to play games and listen to music </b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/aman-srivastava-973297199/"><img src="https://img.icons8.com/android/48/000000/linkedin.png"/></a>
+
+## Languages and Tools:
+
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amansri1210)](https://github.com/anuraghazra/github-readme-stats)
