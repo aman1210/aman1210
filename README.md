@@ -1,4 +1,7 @@
-### Hi there 👋
+# <p align="center"> Hi there 👋, I'm Aman Srivastava </p>
+</hr>
+
+### <p align="center"> I'm a Student, Developer, Learner!!! </p>
 
 <!--
 **aman1210/aman1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
