@@ -16,5 +16,5 @@
 
 ## Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman1210)](https://github.com/aman1210/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman1210&show_icons=true&theme=radical)](https://github.com/aman1210/github-readme-stats)
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman1210&show_icons=true&theme=radical)
