@@ -12,7 +12,7 @@
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/aman-srivastava-973297199/"><img src="https://img.icons8.com/android/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/aman-srivastava-973297199/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman1210&show_icons=true&theme=radical)](https://github.com/aman1210/github-readme-stats)<br>
