@@ -15,7 +15,7 @@
    <img height = 430 width= 300 align = right src = "https://user-images.githubusercontent.com/50004633/134461687-7281df45-15a4-47dd-8df4-15a2319d2001.gif">
   
 </p>
-<img height=200 width = 400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1210&show_icons=true&theme=radical"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1210&show_icons=true&theme=radical"/>
 
 
 ## Connect With Me
