@@ -11,11 +11,11 @@
 - ⚡ Fun fact: <b> I love to play games and listen to music </b>
 
 <p>
-    <img height=300 width = 500 src="https://github-readme-stats.vercel.app/api?username=aman1210&show_icons=true&theme=midnight-purple">
+    <img height=250 width = 500 src="https://github-readme-stats.vercel.app/api?username=aman1210&show_icons=true&theme=midnight-purple">
    <img height = 530 width= 300 align = right src = "https://user-images.githubusercontent.com/50004633/134461687-7281df45-15a4-47dd-8df4-15a2319d2001.gif">
   
 </p>
-<img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1210&show_icons=true&theme=radical"/>
+<img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1210&show_icons=true&theme=radical"/>
 
 
 ## Connect With Me
